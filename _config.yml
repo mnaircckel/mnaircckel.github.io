@@ -1,10 +1,10 @@
 # Site settings
 title: "Marcel Champagne"
 email: champagn@grinnell.edu
-description: "A dark blog theme for Jekyll."
+description: "Personal Website for Marcel Champagne."
 baseurl: ""
 url: "http://mnaircckel.github.io/"
-title_description: "Hello, my name is Marcel Champagne. I am currently a computer science student at Grinnell College."
+title_description: "Hello, my name is Marcel Champagne. I'm a computer science major at Grinnell College who is passionate about software development and innovation. As of now, this website consists only of a landing page; you can visit my GitHub and LinkedIn below."
 title_image: "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11224471_10207942379623964_4446487529219587198_n.jpg?oh=0af200956b2807ff28d37db89827de40&oe=568AE458"
 google_analytics: ""
 disqus_account: 
@@ -20,7 +20,7 @@ google_plus_link:
 stackoverflow_link: 
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://github.com/mnaircckel\">Marcel Champagne</a>"
+footer_left: "Made by <a href=\"https://github.com/mnaircckel\">Marcel Champagne</a>"
 
 # Build settings
 markdown: redcarpet
