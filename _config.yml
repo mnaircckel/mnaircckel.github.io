@@ -20,7 +20,7 @@ google_plus_link:
 stackoverflow_link: 
 
 # Footer
-footer_left: "Copyright © 2015 Marcel Champagne"
+footer_left: "Copyright © 2015 Marcel Champagne "
 
 # Build settings
 markdown: redcarpet
